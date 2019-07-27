@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e43c1c-a90f-4745-9e9d-43a99657f00e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/def_fuc.py" beforeDir="false" afterPath="$PROJECT_DIR$/def_fuc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobInfo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dhcpcd.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../file.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
@@ -39,7 +39,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mongodb$jobInfo.coverage" NAME="jobInfo Coverage Results" MODIFIED="1564193162124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/boss_python$jobInfo.coverage" NAME="jobInfo Coverage Results" MODIFIED="1564207601480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boss_python$jobInfo.coverage" NAME="jobInfo Coverage Results" MODIFIED="1564207852291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mongodb$mongoConnected.coverage" NAME="mongoConnected Coverage Results" MODIFIED="1564185955602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boss_python$mongoConnected.coverage" NAME="mongoConnected Coverage Results" MODIFIED="1564197150099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -68,35 +68,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobInfo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/def_fuc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2226">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="524">
+              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
               <folding>
                 <element signature="e#22#51#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -116,10 +104,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jobInfo.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/mongoConnected.py" />
         <option value="$PROJECT_DIR$/def_fuc.py" />
+        <option value="$PROJECT_DIR$/jobInfo.py" />
       </list>
     </option>
   </component>
@@ -231,15 +219,16 @@
       <updated>1563430030832</updated>
       <workItem from="1563430053204" duration="8567000" />
       <workItem from="1564184465924" duration="4587000" />
-      <workItem from="1564196266632" duration="5875000" />
+      <workItem from="1564196266632" duration="6141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19029000" />
+    <option name="totallyTimeSpent" value="19295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,6 +264,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mongoConnected.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -285,27 +281,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongoConnected.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/def_fuc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2226">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="524">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
           <folding>
             <element signature="e#22#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
