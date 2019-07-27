@@ -9,7 +9,7 @@ print(names)
 # 选择其中的local数据库， （local数据库是安装时自带的，项目中我们应该自己新建一个）
 db = client.local
 
-# 向local数据库中的start_log集合中插入一条数据
+# 向local数据库中的startup_log集合中插入一条数据
 db.startup_log.insert_one({'testInfo': 789})
 
 # 打印local数据库中start_log集合的所有数据

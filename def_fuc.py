@@ -42,9 +42,6 @@ def getCompanyInfo(bsObj):
             "direction": tagInfo["direction"],
             "finSituation": tagInfo["finSituation"],
             "comSize": tagInfo["comSize"]
-
-
-
         })
         print('------------------------------------')
         print('')
