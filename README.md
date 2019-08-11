@@ -13,3 +13,4 @@
 
 - python jobInfo.py 爬虫开始
 - python mongoConnected.py 输出本地mongodb中的数据
+- python saveCityCode.py 保存目前boss直聘上所有城市的code
