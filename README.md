@@ -81,6 +81,12 @@ for 城市 in 城市列表:
                         保存到数据库
 ```
 
+### 项目保存的位置
+
+Python代码存储位置`https://github.com/diken666/boss_python`  
+Node代码存储位置`https://github.com/diken666/boss_node`  
+Vue代码存储位置`https://github.com/diken666/boss_vue`  
+
 ### 文件说明
 
 - def_fuc.py是定义的爬取函数文件
