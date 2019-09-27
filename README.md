@@ -1,5 +1,10 @@
 # boss_python
 
+## 1. 目标网站介绍
+
+### 1.1 url结构
+    目标网站结构如图， `https://www.zhipin.com/c101270100-p100999/s_301/?page=2` `注意：此url已经忽略掉了其它多余的字段`
+    ![IMG](./img/pic1.png)
 ### 文件说明
 
 - def_fuc.py是定义的爬取函数文件
