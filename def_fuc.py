@@ -1,4 +1,3 @@
-
 # 引用第三方beautifulSoup库
 from bs4 import BeautifulSoup
 # 引用python自带的urllib库
