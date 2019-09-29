@@ -58,7 +58,8 @@ S_ + 数字 代表公司规模（此时代表） 此字段存在的意义也是�
 |minSalary|最低工资|整型数字|非空
 |maxSalary|最高工资|整型数字|非空
 |city|所在城市|字符串|非空
-|location|具体位置|字符串||	
+|positionArea|所在区|字符串||	
+|positionLoc|所在区下的位置|字符串||
 |expDescription|工作经验描述|字符串|非空
 |minExp|最少工作经验|整型数字||	
 |maxExp|最多工作经验|整型数字||
